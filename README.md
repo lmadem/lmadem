@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lmadem
-- 👀 I’m interested in hardware design and software implementations 
-- 🌱 I’m currently learning computer engineering
+- 👋 Hi, I’m @Lohith Madem
+- 👀 I’m interested in hardware design and verification
+- 🌱 Computer Engineering Grad
 - 💞️ I’m looking to collaborate on semiconductors industry
 - 📫 How to reach me lohithmadem@outlook.com
 
