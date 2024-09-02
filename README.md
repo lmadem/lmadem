@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lohith Madem
 - 👀 I’m interested in hardware design and verification
 - 🌱 Computer Engineering Grad
-- 💞️ I’m looking to collaborate on semiconductors industry
+- 💞️ I’m looking to collaborate on interesting ASIC/SOC/FPGA design & verification projects 
 - 📫 How to reach me lohithmadem@outlook.com
 
 <!---
